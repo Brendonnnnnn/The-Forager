@@ -1,0 +1,92 @@
+fileFormatVersion: 2
+guid: b9548eb3cb896c642ada21eb5940d404
+timeCreated: 1430744699
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BigCross001
+    100002: Board001
+    100004: Text006
+    100006: //RootNode
+    100008: Tombstone005
+    400000: BigCross001
+    400002: Board001
+    400004: Text006
+    400006: //RootNode
+    400008: Tombstone005
+    2300000: BigCross001
+    2300002: Board001
+    2300004: Text006
+    2300006: Tombstone005
+    3300000: BigCross001
+    3300002: Board001
+    3300004: Text006
+    3300006: Tombstone005
+    4300000: Tombstone005
+    4300002: BigCross001
+    4300004: Board001
+    4300006: Text006
+    6400000: BigCross001
+    6400002: Board001
+    6400004: Text006
+    6400006: Tombstone005
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
